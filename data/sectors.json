@@ -1,0 +1,54 @@
+{
+  "TA+E2": {
+    "communes": [
+      "leTampon",
+      "entreDeux"
+    ],
+    "description": "Le Tampon + Entre-Deux sectors",
+    "sectors": {
+      "leTampon": [
+        "A",
+        "B",
+        "C",
+        "D"
+      ],
+      "entreDeux": [
+        "A",
+        "B"
+      ]
+    }
+  },
+  "SJ+SP": {
+    "communes": [
+      "saintJoseph",
+      "saintPhilippe"
+    ],
+    "description": "Saint Joseph + Saint Philippe sectors",
+    "sectors": {
+      "saintJoseph": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "T"
+      ],
+      "saintPhilippe": [
+        "T",
+        "S",
+        "R"
+      ]
+    }
+  }
+}
